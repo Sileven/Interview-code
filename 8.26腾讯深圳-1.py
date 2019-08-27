@@ -1,4 +1,3 @@
-#!/usr/local/bin/python
 # coding=UTF-8
 """
  * n种二叉树？

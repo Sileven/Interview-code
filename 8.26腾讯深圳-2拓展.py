@@ -1,12 +1,3 @@
-#!/usr/local/bin/python
-# coding=UTF-8
-'''
-@Usage: 
-@author: rikysi
-@Date: 2019-08-26 14:41:01
-@LastEditors: rikysi
-@LastEditTime: 2019-08-26 15:16:11
-'''
 """
 输入一个有序数组，删除数组所有相同元素，返回去重后的数组
 如：
